@@ -5,6 +5,5 @@ import (
 )
 
 func TestPrepareInput(t *testing.T) {
-	day2()
-
+	Solve("inputs/day6.txt")
 }
